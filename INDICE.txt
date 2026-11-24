@@ -1,0 +1,23 @@
+UC4 - ESTRUTURAS DE CONTROLE IF
+15 atividades + 5 desafios extras
+
+atividades/atividade-01: A Lojinha de Variedades de Lizandra
+atividades/atividade-02: Anna Beatriz e Giuliany no McDonald's
+atividades/atividade-03: O Programa da Nintendo Criado por Julio
+atividades/atividade-04: A Maratona de Séries
+atividades/atividade-05: Mikaelly e o Show do BTS
+atividades/atividade-06: A Aula de Lógica de Estefany
+atividades/atividade-07: A Música de Amor de Wandercyra
+atividades/atividade-08: A Extensão de Rap do VS Code
+atividades/atividade-09: A Palestra sobre Casamento
+atividades/atividade-10: As Compras de Kauane e Kauany
+atividades/atividade-11: Izabela no Show de Djavan
+atividades/atividade-12: Felipe e as Tranças de Milena
+atividades/atividade-13: Breno e Artur Explorando o SENAC
+atividades/atividade-14: A Promessa de Esfiha da Prof. Ruth
+atividades/atividade-15: O Computador Misterioso do Laboratório
+desafios-extras/desafio-01: O Campeonato de Games da Nintendo
+desafios-extras/desafio-02: A Promoção Especial da Lizandra
+desafios-extras/desafio-03: Mikaelly e o Orçamento do Show do BTS
+desafios-extras/desafio-04: O Grande Pedido de Esfiha
+desafios-extras/desafio-05: O Festival de Talentos da Turma

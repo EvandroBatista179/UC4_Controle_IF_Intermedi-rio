@@ -1,0 +1,42 @@
+# Ambientes virtuais Python
+.venv/
+venv/
+env/
+ENV/
+
+# Cache e arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações locais de IDE
+.idea/
+.vscode/
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Dados de ambiente e credenciais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Cache de testes e ferramentas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IMPORTANTE: arquivos .py, .png e README.md devem ser publicados.
